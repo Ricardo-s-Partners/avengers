@@ -5,4 +5,4 @@
 3. Mysterio
 4. Carnage
 5. Red Skull
-6. Loki
+6. Capitán América
