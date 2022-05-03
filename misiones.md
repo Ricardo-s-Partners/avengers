@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los planes de Loki
+* Investigar los planes de Loki.
+* Capturar a Red Skull.
